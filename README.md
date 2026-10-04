@@ -1,6 +1,6 @@
 # Soutenance PFE
 
-Présentation de soutenance de mon projet de fin d'études : détection intelligente d'incidents de sécurité dans un SOC à haute volumétrie par apprentissage non supervisé (ENSA Oujda, Maroc Telecom, 2026).
+Présentation de soutenance de mon projet de fin d'études : détection intelligente d'incidents de sécurité dans un SOC à haute volumétrie par apprentissage non supervisé.
 
 Présentation en ligne : https://hkaicer.github.io/soutenance-pfe/
 
